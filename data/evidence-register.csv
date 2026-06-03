@@ -1,0 +1,7 @@
+Evidence ID,Artifact,Observed Source,Relevance,Integrity Note
+E-01,Windows 8.1 Enterprise forensic image,FTK Imager / source presentation,Primary source for file-system and registry investigation,MD5 and SHA1 verification documented in presentation.
+E-02,README.txt message file,FTK Imager screenshot and presentation,Message file prompting investigation,Export hash not retained in repo materials.
+E-03,SYSTEM hive ComputerName,Registry Explorer screenshot,Identified host as SENSEI,Hive export hash not retained in repo materials.
+E-04,SAM account metadata,Registry Explorer screenshot,Administrator and user-account activity review,Hive export hash not retained in repo materials.
+E-05,UserAssist / RecentDocs artifacts,Registry Explorer screenshots,Supported Notepad and file access timeline,Exact SID-to-hive evidence should be preserved in future work.
+E-06,Magnify.exe suspicious executable,FTK Imager / sandbox / VirusTotal evidence,Supported likely cmd.exe substitution,SHA-256 documented in report and presentation.

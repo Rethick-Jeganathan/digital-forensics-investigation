@@ -1,0 +1,9 @@
+Timestamp,Artifact/Event,Source,Interpretation
+2015-12-11 09:35:03,Image acquisition started,Source presentation,Forensic image acquisition began.
+2015-12-11 09:47:19,Image acquisition finished,Source presentation,Forensic image acquisition completed.
+2015-12-11 19:18:54,Magnify.exe modified / AppCompatCache entry,FTK Imager and Registry Explorer screenshots,Suspicious executable activity close to attack window.
+2015-12-12 03:24:08,NOTEPAD.EXE accessed by Administrator,UserAssist / NTUSER.DAT evidence,Supports interactive text-file activity.
+2015-12-12 03:24:39,README.txt located at root/tools/README.txt,FTK Imager and source presentation,Message file of interest located.
+2015-12-12 03:25:14,Administrator last logon,SAM hive evidence,Supports Administrator activity near event period.
+2024-10-25 09:47:19,Image verification started,Source presentation,Verification process began.
+2024-10-25 09:52:48,Image verification completed,Source presentation,MD5 and SHA1 verified.
